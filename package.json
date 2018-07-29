@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "Herbot V2.py",
   "scripts": {
-    "start": "node Herbot V2.py"
+    "start": "python Herbot V2.py"
   },
 "dependencies": {
   "discord.py": "11.1.0",
