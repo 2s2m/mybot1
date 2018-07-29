@@ -1,1 +1,1 @@
-worker: node Herbot V2.py
+worker: python Herbot V2.py
